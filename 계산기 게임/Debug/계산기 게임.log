@@ -1,0 +1,50 @@
+﻿  game.c
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(162): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(183): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(220): warning C4047: '함수': 'MCIDEVICEID'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(220): warning C4024: 'mciSendCommandA': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(234): warning C4133: '함수': 'WCHAR [2048]'과(와) 'LPSTR' 사이의 형식이 호환되지 않습니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(235): warning C4133: '함수': 'WCHAR [2048]'과(와) 'LPCSTR' 사이의 형식이 호환되지 않습니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(236): warning C4133: '함수': 'WCHAR [2048]'과(와) 'LPCSTR' 사이의 형식이 호환되지 않습니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(366): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(375): warning C4244: '초기화 중': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(394): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(399): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(392): warning C4244: '초기화 중': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(527): warning C4013: 'isEnd'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(633): warning C4047: '초기화 중': 'HANDLE'의 간접 참조 수준이 'uintptr_t'과(와) 다릅니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(638): warning C4047: '초기화 중': 'HANDLE'의 간접 참조 수준이 'uintptr_t'과(와) 다릅니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(793): warning C4047: '초기화 중': 'HANDLE'의 간접 참조 수준이 'uintptr_t'과(와) 다릅니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(797): warning C4047: '초기화 중': 'HANDLE'의 간접 참조 수준이 'uintptr_t'과(와) 다릅니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(806): warning C4047: '초기화 중': 'HANDLE'의 간접 참조 수준이 'uintptr_t'과(와) 다릅니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(836): warning C4047: '초기화 중': 'HANDLE'의 간접 참조 수준이 'uintptr_t'과(와) 다릅니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(865): warning C4047: '초기화 중': 'HANDLE'의 간접 참조 수준이 'uintptr_t'과(와) 다릅니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(961): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(964): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(966): warning C4047: '초기화 중': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(967): warning C4101: 'num3' :참조되지 않은 지역 변수입니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(1189): warning C4047: '초기화 중': 'HANDLE'의 간접 참조 수준이 'uintptr_t'과(와) 다릅니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(1197): warning C4047: '초기화 중': 'HANDLE'의 간접 참조 수준이 'uintptr_t'과(와) 다릅니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(1204): warning C4047: '초기화 중': 'HANDLE'의 간접 참조 수준이 'uintptr_t'과(와) 다릅니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(1211): warning C4047: '초기화 중': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(1249): warning C4047: '초기화 중': 'HANDLE'의 간접 참조 수준이 'uintptr_t'과(와) 다릅니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(1257): warning C4047: '초기화 중': 'HANDLE'의 간접 참조 수준이 'uintptr_t'과(와) 다릅니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(1264): warning C4047: '초기화 중': 'HANDLE'의 간접 참조 수준이 'uintptr_t'과(와) 다릅니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(1270): warning C4047: '초기화 중': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(1326): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(1331): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(1334): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(1327): warning C4244: '초기화 중': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(1332): warning C4244: '초기화 중': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(1335): warning C4244: '초기화 중': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(1407): warning C4047: '초기화 중': 'HANDLE'의 간접 참조 수준이 'uintptr_t'과(와) 다릅니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(1421): warning C4047: '초기화 중': 'HANDLE'의 간접 참조 수준이 'uintptr_t'과(와) 다릅니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(1424): warning C4047: '초기화 중': 'HANDLE'의 간접 참조 수준이 'uintptr_t'과(와) 다릅니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(1434): warning C4047: '초기화 중': 'HANDLE'의 간접 참조 수준이 'uintptr_t'과(와) 다릅니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(1468): warning C4047: '초기화 중': 'HANDLE'의 간접 참조 수준이 'uintptr_t'과(와) 다릅니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(1472): warning C4047: '초기화 중': 'HANDLE'의 간접 참조 수준이 'uintptr_t'과(와) 다릅니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(1496): warning C4047: '초기화 중': 'HANDLE'의 간접 참조 수준이 'uintptr_t'과(와) 다릅니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(1502): warning C4047: '초기화 중': 'HANDLE'의 간접 참조 수준이 'uintptr_t'과(와) 다릅니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(1531): warning C4047: '초기화 중': 'HANDLE'의 간접 참조 수준이 'uintptr_t'과(와) 다릅니다.
+c:\users\user\source\repos\계산기 게임\계산기 게임\game.c(2010): warning C4047: '초기화 중': 'HANDLE'의 간접 참조 수준이 'uintptr_t'과(와) 다릅니다.
+  계산기 게임.vcxproj -> C:\Users\User\source\repos\계산기 게임\Debug\계산기 게임.exe
